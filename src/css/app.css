@@ -1,0 +1,20 @@
+a { cursor: pointer; }
+
+.help-block {font-size: 12px;color: red;}
+
+input[type=radio].form-control {
+    width: inherit;
+    height: inherit;
+    float: left;
+    margin-right: 8px;
+    margin-top: 3px;
+}
+
+input.install {
+    background: blue;
+    color: white;
+    border-radius: 12px;
+    font-size: 12px;
+    width: 54px;
+    height: 33px;
+}
